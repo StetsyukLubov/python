@@ -1,0 +1,23 @@
+
+# Username = input ("Введите имя: ")
+# if  Username == "Маша" and "МАША" and "МаШа":
+#     print ( "Уррра, это же Маша!")
+# elif Username == "Марина":   
+#      print ( " я так ждал  тебя, Марина!")
+# elif Username == "Ильнар":
+#      print (" Ильнар  - forever")
+# else: 
+#     print (" Салют,  новичок! как дела?")
+
+
+# line = ""
+# for  i in range (5):
+#     line += "+"
+#     for j in range (5):
+#       line += "*"
+# print (line)
+
+# text = "Съешь  ЁЩЕ эТих Мягких ФРАНцузских  булОчЕк"
+# print ( text.replace ( "Съешь  ЁЩЕ эТих Мягких ФРАНцузских  булОчЕк", " съешь  этих  мягких булочек")) 
+
+

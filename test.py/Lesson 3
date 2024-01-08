@@ -1,0 +1,12 @@
+i = int(input("Введите i: ")) 
+j = int(input("Введите i: "))
+
+if i == j:
+    print("Информации недостаточно")
+else:
+    print(i + j - 1)
+    
+    
+    
+    
+    

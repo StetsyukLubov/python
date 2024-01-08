@@ -1,0 +1,5 @@
+x = 0
+while (x ** 2 <= p) and (x <= (s - x)):
+    if x * (s - x) == p:
+        print (x, s - x)
+    x += 1

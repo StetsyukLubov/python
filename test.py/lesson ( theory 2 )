@@ -1,0 +1,47 @@
+# list_1 = [1,2,3,4,5,6,7,8,9,10]
+
+# print (list_1[0])
+# print ( list_1[1])
+# print ( list_1[2])
+# print ( list_1[:])
+
+
+# # print (list_1[len (list_1) -2:])
+# # print ( list_1[2:9])
+# # print (list_1 [ 0:len(list_1):6])
+# # print ( list_1[::6])
+
+# # t= ()
+# # print (type (t))
+
+# # t =(1,3,5,)
+# # print ( type (t))
+
+# # v =[1,8,9]
+# # print (type (v))
+# # v = tuple (v)
+# # print (v)
+# # print ( type(v))
+
+# # v =[1,8,9]
+# # a = b = 1
+# # a,b,c= v
+# # print (a,b,c)
+
+
+# # t= [1,2,3,4,5]
+
+# # for i in  range (len(t)):
+# #     print (t[i])
+
+# d={}
+# d = dict ()
+
+# d ["q"]= "qwerty"
+# print (d)
+
+# d ["w"]= "qwerty"
+# print (d ["q"])
+
+
+
